@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sneha Shahu | Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION BAR -->
+
+    <nav class="navbar">
+
+        <h2>Sneha Shahu</h2>
+
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+
+    </nav>
+
+
+    <!-- HOME SECTION -->
+
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+
+            <div class="hero-text">
+
+                <p class="hello">Hello, I'm</p>
+
+                <h1>Sneha Shahu</h1>
+
+                <h2>
+                    QA Support | WordPress Developer
+                </h2>
+
+                <p>
+                    Web & Graphic Designer
+                </p>
+
+                <a href="#about" class="button">
+                    About Me
+                </a>
+
+                <a href="#contact" class="button">
+                    Contact Me
+                </a>
+
+            </div>
+
+
+            <div class="hero-image">
+
+                <img
+                    src="images/profile.jpg"
+                    alt="Sneha Shahu"
+                >
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ABOUT SECTION -->
+
+    <section class="about" id="about">
+
+        <h2>About Me</h2>
+
+        <p>
+            I am Sneha Shahu, a Computer System Engineering graduate
+            with experience in Software Quality Assurance,
+            WordPress Development, Graphic Design, and
+            digital content creation.
+        </p>
+
+        <p>
+            I have experience working with WordPress websites,
+            software testing, social media management, Canva,
+            website content management, and responsive web design.
+        </p>
+
+        <p>
+            I enjoy learning new technologies and combining
+            technical and creative skills to build useful
+            digital experiences.
+        </p>
+
+    </section>
+
+
+    <!-- SKILLS SECTION -->
+
+    <section class="skills" id="skills">
+
+        <h2>My Skills</h2>
+
+        <div class="skills-container">
+
+
+            <div class="skill-card">
+
+                <h3>Software Testing</h3>
+
+                <p>
+                    Manual Testing,
+                    Functional Testing,
+                    Regression Testing,
+                    Bug Reporting
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>WordPress</h3>
+
+                <p>
+                    WordPress Development,
+                    Website Management,
+                    Plugins,
+                    Content Management
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Web Development</h3>
+
+                <p>
+                    HTML,
+                    CSS,
+                    Responsive Web Design
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Graphic Design</h3>
+
+                <p>
+                    Canva,
+                    Graphic Design,
+                    Social Media Content
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Digital Skills</h3>
+
+                <p>
+                    Social Media Management,
+                    Digital Marketing Support,
+                    Content Creation
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Office Tools</h3>
+
+                <p>
+                    Microsoft Word,
+                    Excel,
+                    PowerPoint,
+                    Google Workspace
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- EXPERIENCE SECTION -->
+
+    <section class="experience" id="experience">
+
+        <h2>Experience</h2>
+
+
+        <div class="experience-card">
+
+            <h3>QA Support</h3>
+
+            <h4>
+                Dynamic EMR Healthcare ERP — Paaila Technology
+            </h4>
+
+            <p class="date">
+                August 2026 – Present
+            </p>
+
+            <p>
+                Perform manual, functional, and regression
+                testing for a Healthcare EMR/ERP system.
+            </p>
+
+            <p>
+                Test registration, doctor workflows,
+                appointments, scheduling, billing,
+                pharmacy, optical, and surgery modules.
+            </p>
+
+            <p>
+                Identify functional and usability issues,
+                report bugs, and retest resolved issues.
+            </p>
+
+        </div>
+
+
+        <div class="experience-card">
+
+            <h3>WordPress Developer</h3>
+
+            <h4>
+                InDesign Media Nepal
+            </h4>
+
+            <p class="date">
+                November 2025 – May 2026
+            </p>
+
+            <p>
+                Assisted in developing, updating,
+                and maintaining WordPress websites.
+            </p>
+
+            <p>
+                Supported website content management,
+                plugin updates, and basic troubleshooting.
+            </p>
+
+            <p>
+                Designed social media posts, banners,
+                and promotional materials using Canva.
+            </p>
+
+        </div>
+
+
+        <div class="experience-card">
+
+            <h3>Social Media Handler</h3>
+
+            <h4>
+                Shree Ganpati Plastic Bora Udyog
+            </h4>
+
+            <p>
+                Managed social media pages and created
+                promotional content using Canva.
+            </p>
+
+            <p>
+                Designed promotional posters and social
+                media creatives to support audience engagement.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- PROJECTS SECTION -->
+
+    <section class="projects" id="projects">
+
+        <h2>My Projects</h2>
+
+        <div class="projects-container">
+
+
+            <div class="project-card">
+
+                <h3>WordPress Website Project</h3>
+
+                <p>
+                    Designed and developed a responsive
+                    WordPress website for a business.
+                </p>
+
+                <p>
+                    Created pages and layouts optimized
+                    for mobile and desktop devices.
+                </p>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>Poster & Social Media Design</h3>
+
+                <p>
+                    Designed promotional posters and
+                    social media creatives using Canva.
+                </p>
+
+                <p>
+                    Focused on clean and engaging
+                    visual content.
+                </p>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>Personal Portfolio Website</h3>
+
+                <p>
+                    Designed and developed this portfolio
+                    website using HTML and CSS.
+                </p>
+
+                <p>
+                    The website showcases my skills,
+                    experience, projects, and contact
+                    information.
+                </p>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>Healthcare ERP Testing</h3>
+
+                <p>
+                    Performed software testing on
+                    Healthcare EMR/ERP workflows.
+                </p>
+
+                <p>
+                    Tested registration, appointments,
+                    billing, pharmacy, optical,
+                    and surgery features.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT SECTION -->
+
+    <section class="contact" id="contact">
+
+        <h2>Contact Me</h2>
+
+        <p>
+            Interested in working together or want to know
+            more about my work? Feel free to contact me.
+        </p>
+
+
+        <div class="contact-info">
+
+            <h3>Phone</h3>
+
+            <p>
+                <a href="tel:+9779815351113">
+                    9815351113
+                </a>
+            </p>
+
+            <p>
+                <a href="tel:+9779712083970">
+                    +977 971-2083970
+                </a>
+            </p>
+
+
+            <h3>Email</h3>
+
+            <p>
+                <a href="mailto:snehashah1660@gmail.com">
+                    snehashah1660@gmail.com
+                </a>
+            </p>
+
+        </div>
+
+
+        <div class="contact-links">
+
+            <a href="mailto:snehashah1660@gmail.com">
+                Email Me
+            </a>
+
+            <a
+                href="https://github.com/snehashah2003"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                GitHub
+            </a>
+
+            <a
+                href="https://www.linkedin.com/in/sneha-shahu-53b13a367"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                LinkedIn
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <p>
+            &copy; 2026 Sneha Shahu. All Rights Reserved.
+        </p>
+
+    </footer>
+
+
+</body>
+
+</html>
